@@ -8,4 +8,7 @@ div {
   margin-bottom: 12em;
   background: white;
   border: 4px solid black;
+  background-color: black;
+  width: 200px;
+  height: 200px;
 }
