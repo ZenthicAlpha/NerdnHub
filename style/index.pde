@@ -3,5 +3,5 @@ void setup() {
 }
 void draw() {
   fill(255, 0, 0);
-  rect(200, 200, 200, 200);
+  rect(475, 0, 200, 100);
 }
