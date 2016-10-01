@@ -4,5 +4,5 @@ void setup() {
 }
 void draw() {
   fill(255, 0, 0);
-  rect(500 * fakepxw, 100, 1, 100);
+  line(500 * fakepxw,0,  500 * fakepxw, 100);
 }
