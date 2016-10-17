@@ -6,7 +6,7 @@ void draw() {
     return screen.width / 1000 * x;
   }
   function fakepxy(y) {
-    return screen.height / 561.7977528 * y;
+    return screen.height / 1000 * y;
   }
   //int fakepxx = screen.width / 1000;
   //int fakepxy = screen.height / 561.7977528;
