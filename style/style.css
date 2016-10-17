@@ -1,14 +1,7 @@
 h1 {
   font: impact;
 }
-
-div {
-  color: black;
-  display: fixed;
-  margin-bottom: 12em;
-  background: white;
-  border: 4px solid black;
-  background-color: black;
-  width: 200px;
-  height: 200px;
+html {
+  background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
+  font-size: 10pt;
 }
