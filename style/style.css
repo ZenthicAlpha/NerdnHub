@@ -1,5 +1,6 @@
 h1 {
-  font: Impact;
+  font-family: "Impact", Impact;
+  font: Impact
 }
 html {
   background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
