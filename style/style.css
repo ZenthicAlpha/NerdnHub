@@ -12,3 +12,7 @@ a: hover {
   color: purple;
   text-decoration: underline;
 }
+p {
+  color: black;
+  background-color: black;
+}
