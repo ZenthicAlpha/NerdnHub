@@ -1,6 +1,5 @@
 body {
-  font-family: "Impact", Impact;
-  font-shorthand: Impact
+  font-family: "Impact", Impact, sans-serif;
 }
 html {
   background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
