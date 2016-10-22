@@ -22,6 +22,6 @@ p {
 }
 .boxed { 
   border: 1px solid black;
-  length: 100px;
+  length: 10000px;
   width: 100px;
 }
