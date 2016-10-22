@@ -1,6 +1,7 @@
 h1.Top-Header {
   font-family: "Impact", Impact, serif;
   margin-left: 43%;
+  position: fixed;
 }
 html {
   background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
