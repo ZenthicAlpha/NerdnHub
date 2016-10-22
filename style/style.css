@@ -1,6 +1,5 @@
 h1.Top-Header {
   font-family: "Impact", Impact, sans-serif;
-  font-size: large;
 }
 html {
   background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
@@ -13,6 +12,6 @@ a: hover {
   text-decoration: underline;
 }
 p {
+  font-family: "sans-serif", sans-serif;
   color: black;
-  background-color: black;
 }
