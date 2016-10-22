@@ -20,3 +20,6 @@ p {
 #motto {
   margin-left: 41%;
 }
+.boxed { 
+  border: 1p solid black;
+}
