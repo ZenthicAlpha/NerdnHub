@@ -17,4 +17,5 @@ p {
 }
 .email {
   text-decoration: underline;
+  color: blue;
 }
