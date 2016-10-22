@@ -8,10 +8,6 @@ html {
 a {
   color: blue;
 }
-a: hover {
-  color: purple;
-  text-decoration: underline;
-}
 p {
   font-family: "serif", serif;
   color: black;
@@ -19,4 +15,7 @@ p {
 .signInUp {
   margin-left: 95%;
   margin-bottom: 95%;
+}
+#motto {
+  margin-left: 41%;
 }
