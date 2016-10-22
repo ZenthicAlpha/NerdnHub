@@ -1,9 +1,9 @@
 h1.Top-Header {
   font-family: "Impact", Impact, sans-serif;
+    font-size: 20pt;
 }
 html {
   background-image: url("https://nerdnhub.github.io/NerdnHub/backgrounds/Main.png");
-  font-size: 10pt;
 }
 a {
   color: blue;
