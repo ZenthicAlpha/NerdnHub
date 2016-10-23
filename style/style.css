@@ -25,5 +25,6 @@ p {
   margin-left: 870px;
 }
 .chipTabsIndex {
+// you will need to delete this, because this class affects two buttons putting them in the same spot, overlapping, ruining show //
 
 }
